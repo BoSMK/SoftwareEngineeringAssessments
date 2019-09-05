@@ -24,10 +24,10 @@ A = 1
 10, J, Q, K = 10
 
 Suit:		Color
- "C" = Club 		(Black)
- "S" = Spade 			(Black)
- "D" = Diamond 			(Red)
- "H" = Heart 			(Red)
+ "C" = Club 	(Black)
+ "S" = Spade 	(Black)
+ "D" = Diamond 	(Red)
+ "H" = Heart 	(Red)
 
 Customer subject matter experts have indicated that processing each batch entails a unitless waste metric. 
 They suggest that waste for a batch can be estimated as the sum of the distances between successive entries 
