@@ -1,5 +1,3 @@
-kaung-bo-20190725
-
 This assessment includes: Software Engineering Fundamentals
 
     is-invalid-batch JSON-FILE
